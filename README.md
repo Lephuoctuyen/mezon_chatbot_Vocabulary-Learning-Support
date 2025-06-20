@@ -11,7 +11,7 @@ Use your install link in a browser to add your bot to your desired clan.
 ## Installation
 1. Clone the repository: 
 ```bash
-$ git clone https://github.com/nccasia/mezon-top-board.git
+$ git clone https://github.com/Lephuoctuyen/mezon_chatbot_Vocabulary-Learning-Support.git
 ```
 2. Navigate to the project directory: 
 ```bash
