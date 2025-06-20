@@ -15,7 +15,8 @@ def init_quiz(mode, n):
     words = random.sample(data, min(n, len(data)))
     for w in words:
         w["frequency"] = w.get("frequency", 0) + 1
-
+    with open(DATA_PATH, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
     result = {
         "quiz_mode": mode,
         "words": words,
