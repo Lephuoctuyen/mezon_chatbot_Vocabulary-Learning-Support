@@ -1,0 +1,23 @@
+[
+  {
+    "name": "eat ",
+    "meaning": "to put food in your mouth, bite it and swallow it",
+    "example": " i eat rice",
+    "type": " verb",
+    "frequency": 0
+  },
+  {
+    "name": "apple ",
+    "meaning": " a round fruit with shiny red or green skin that is fairly hard and white inside ",
+    "example": " Peel and core the apples. ",
+    "type": " noun",
+    "frequency": 0
+  },
+  {
+    "name": "intelligence ",
+    "meaning": " the ability to learn, understand and think in a logical way about things, the ability to do this well ",
+    "example": " a person of high/average/low intelligence ",
+    "type": " noun",
+    "frequency": 0
+  }
+]

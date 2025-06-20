@@ -1,0 +1,132 @@
+[
+    {
+        "word": "admit",
+        "synonyms": [
+            "accept",
+            "acknowledge",
+            "confess"
+        ],
+        "meanings": [
+            "chấp nhận",
+            "thừa nhận",
+            "thú nhận"
+        ]
+    },
+    {
+        "word": "announce",
+        "synonyms": [
+            "inform",
+            "notify",
+            "proclaim"
+        ],
+        "meanings": [
+            "thông báo",
+            "công bố",
+            "tuyên bố"
+        ]
+    },
+    {
+        "word": "avoid",
+        "synonyms": [
+            "delete",
+            "eliminate",
+            "evade"
+        ],
+        "meanings": [
+            "tránh",
+            "loại bỏ",
+            "né tránh"
+        ]
+    },
+    {
+        "word": "book",
+        "synonyms": [
+            "reserve",
+            "schedule",
+            "arrange"
+        ],
+        "meanings": [
+            "đặt trước (chỗ)",
+            "đặt lịch",
+            "sắp xếp"
+        ]
+    },
+    {
+        "word": "carry out",
+        "synonyms": [
+            "implement",
+            "perform",
+            "execute"
+        ],
+        "meanings": [
+            "thực hiện",
+            "tiến hành",
+            "thi hành"
+        ]
+    },
+    {
+        "word": "complicated",
+        "synonyms": [
+            "complex",
+            "sophisticated",
+            "difficult"
+        ],
+        "meanings": [
+            "phức tạp",
+            "rắc rối",
+            "khó hiểu"
+        ]
+    },
+    {
+        "word": "emphasize",
+        "synonyms": [
+            "highlight",
+            "stress",
+            "underline"
+        ],
+        "meanings": [
+            "nhấn mạnh",
+            "làm nổi bật",
+            "gạch chân (nghĩa bóng)"
+        ]
+    },
+    {
+        "word": "important",
+        "synonyms": [
+            "essential",
+            "vital",
+            "significant"
+        ],
+        "meanings": [
+            "quan trọng",
+            "thiết yếu",
+            "đáng kể"
+        ]
+    },
+    {
+        "word": "reduce",
+        "synonyms": [
+            "cut",
+            "decrease",
+            "diminish"
+        ],
+        "meanings": [
+            "giảm",
+            "cắt giảm",
+            "thu nhỏ"
+        ]
+    },
+    {
+        "word": "respond",
+        "synonyms": [
+            "reply",
+            "answer",
+            "react"
+        ],
+        "meanings": [
+            "trả lời",
+            "đáp lại",
+            "phản ứng"
+        ]
+    }
+]
