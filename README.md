@@ -15,7 +15,7 @@ $ git clone https://github.com/Lephuoctuyen/mezon_chatbot_Vocabulary-Learning-Su
 ```
 2. Navigate to the project directory: 
 ```bash
-cd mezon-top-board
+cd mezon_chatbot_Vocabulary-Learning-Support
 ```
 3. Copy MEZON_API_KEY in your bot to `.env` and replace it with your bot token.
 ```bash
